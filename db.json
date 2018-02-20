@@ -1,15 +1,16 @@
-
- {
-    "gid": 606,
-    "station_id": "VW_0001",
-    "station_name": "Kleinmond",
-    "obs_id": 21352690,
-    "localtime": "2018-02-20T15:04:39Z",
-    "winddirection_deg": 139,
-    "windspeed_ms": 0,
-    "dayrainfall_mm": 0,
-    "firedanger": 53,
-    "temp_c": 21.7
-}
+properties:[
+  {
+     "gid": 606,
+     "station_id": "VW_0001",
+     "station_name": "Kleinmond",
+     "obs_id": 21352690,
+     "localtime": "2018-02-20T15:04:39Z",
+     "winddirection_deg": 139,
+     "windspeed_ms": 0,
+     "dayrainfall_mm": 0,
+     "firedanger": 53,
+     "temp_c": 21.7
+ }
+]
 
 
