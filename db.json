@@ -1,30 +1,28 @@
-{
-  "type": "FeatureCollection",
-  "totalFeatures": 337,
-  "features": [
-    {
-      "type": "Feature",
-      "id": "w_aws_join_latest_wind_localtime.fid-7095872f_161b323326b_-118c",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2120605.1302,
-          -4073648.4027
-        ]
-      },
-      "geometry_name": "the_geom",
-      "properties": {
-        "gid": 606,
-        "station_id": "VW_0001",
-        "station_name": "Kleinmond",
-        "obs_id": 21352690,
-        "localtime": "2018-02-20T15:04:39Z",
-        "winddirection_deg": 139,
-        "windspeed_ms": 0,
-        "dayrainfall_mm": 0,
-        "firedanger": 53,
-        "temp_c": 21.7
-      }
+
+"features": [
+  {
+    "type": "Feature",
+    "id": "w_aws_join_latest_wind_localtime.fid-7095872f_161b323326b_-118c",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2120605.1302,
+        -4073648.4027
+      ]
+    },
+    "geometry_name": "the_geom",
+    "properties": {
+      "gid": 606,
+      "station_id": "VW_0001",
+      "station_name": "Kleinmond",
+      "obs_id": 21352690,
+      "localtime": "2018-02-20T15:04:39Z",
+      "winddirection_deg": 139,
+      "windspeed_ms": 0,
+      "dayrainfall_mm": 0,
+      "firedanger": 53,
+      "temp_c": 21.7
     }
-  ]
-}
+  }
+]
+
